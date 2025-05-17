@@ -6,10 +6,15 @@ It leverages product data from Flipkart and recommends budget laptops using NLP,
 #Project Structure
 
 ├── app.py                          # Flask web application
+
 ├── web_scraping.py                # Script to scrape laptop data from Flipkart
+
 ├── flipkart_laptop_cleaned.csv    # Original scraped and cleaned dataset
+
 ├── flipkart_laptop_cleaned_new.csv # Newly updated/processed dataset
+
 ├── Dockerfile.py                  # Dockerfile to containerize the application
+
 ├── requirement.txt                # List of dependencies
 
 
