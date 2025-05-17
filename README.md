@@ -3,18 +3,12 @@ This is an AI-powered laptop recommender system built using web scraping, data p
 It leverages product data from Flipkart and recommends budget laptops using NLP, vector search (FAISS), and a GenAI assistant with Retrieval-Augmented Generation (RAG).
 
 
-#Project Structure
-
+# Project Structure
 ├── app.py                          # Flask web application
-
 ├── web_scraping.py                # Script to scrape laptop data from Flipkart
-
 ├── flipkart_laptop_cleaned.csv    # Original scraped and cleaned dataset
-
 ├── flipkart_laptop_cleaned_new.csv # Newly updated/processed dataset
-
 ├── Dockerfile.py                  # Dockerfile to containerize the application
-
 ├── requirement.txt                # List of dependencies
 
 
