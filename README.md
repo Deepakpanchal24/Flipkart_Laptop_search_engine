@@ -121,9 +121,3 @@ Replace `yourusername` with your Docker Hub username.
   - Check security group (port 7860).
   - Verify container: `docker ps`.
   - Inspect logs: `docker logs <container-id>`.
-
-## License
-MIT License (or specify your preferred license).
-
-## Contact
-Open an issue on [GitHub](https://github.com/yourusername/Flipkart_Laptop_search_engine) or email [your-email@example.com].
